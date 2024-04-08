@@ -11,7 +11,7 @@ document.getElementById("submit").addEventListener("click", function(event){
         console.log("This is from prevent form submission !");
         event.preventDefault();
         document.getElementById("hidden").style.visibility= "visible";
-        document.querySelector(".alertDiv").style.height= "190px";
+        document.querySelector(".alertDiv").style.height= "230px";
         document.getElementById("p").innerHTML="Fill in all fields please!";
       }
 })
