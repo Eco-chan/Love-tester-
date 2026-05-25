@@ -1,12 +1,13 @@
 # Love Tester
 <p>Test the love between you and your crush!</p>
  
-# <kbd><a href='https://eco-chan.github.io/Love-tester-/index.html'>Live Website</a><kbd>
+## Website
+See the website <a href='https://eco-chan.github.io/Love-tester-/index.html'>here</a>
 
 ## Description
 <p>This website is meant to be a fun way to share your love with your crush, try it and if you had a high score you might send it to them!</p>
 
-# Tools
+## Tools
 <p>This website was built using the next tools</p>
 <ul>
   <li>HTML5</li>
